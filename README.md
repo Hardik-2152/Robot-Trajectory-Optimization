@@ -19,6 +19,7 @@ Please follow the submission instructions carefully.
 
 ### Step 1: Fork the Repository
 - Click the **Fork** button on the top-right of this repository
+- For the upcoming assignments, sync the fork with the base branch each time
 - This creates a copy of the repository under your GitHub account
 
 ---
